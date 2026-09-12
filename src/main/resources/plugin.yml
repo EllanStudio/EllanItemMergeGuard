@@ -1,0 +1,15 @@
+name: EllanItemMergeGuard
+version: 1.0.0
+main: com.ellanstudio.itemmerge.EllanItemMergeGuardPlugin
+api-version: '1.21'
+author: EllanStudio
+description: Prevent selected dropped items from merging.
+commands:
+  ellanitemmerge:
+    description: Manage item merge protection.
+    usage: /ellanitemmerge <reload|status>
+    aliases: [eimg]
+permissions:
+  ellanitemmerge.admin:
+    description: Manage item merge protection.
+    default: op
