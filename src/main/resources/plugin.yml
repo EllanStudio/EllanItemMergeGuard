@@ -1,5 +1,5 @@
 name: EllanItemMergeGuard
-version: 1.0.2
+version: 1.0.3
 main: com.ellanstudio.itemmerge.EllanItemMergeGuardPlugin
 api-version: '1.21'
 author: EllanStudio
