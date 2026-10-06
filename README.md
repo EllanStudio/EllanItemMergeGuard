@@ -14,3 +14,8 @@ may remain in the configuration for explicit policy and documentation.
 - `/ellanitemmerge status`
 
 Permission: `ellanitemmerge.admin`
+
+## Compatibility
+
+- Paper API compile target: `26.3.build.157-beta`.
+- The plugin descriptor keeps `api-version: 1.21`; live server acceptance remains required.
